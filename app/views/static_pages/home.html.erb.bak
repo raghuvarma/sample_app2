@@ -1,3 +1,2 @@
-<% provide(:title, 'Home') %>
 <h1>Raghu Sample App</h1>
 <p>This is my home page content</p>
